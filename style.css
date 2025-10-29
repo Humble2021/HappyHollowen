@@ -45,15 +45,6 @@ video {
   text-shadow: 0 0 10px #ff0000;
 }
 
-.overlay a {
-  color: #ff944d;
-  text-decoration: underline;
-  margin-top: 1rem;
-}
-
-.overlay a:hover {
-  color: #ff3300;
-}
 
 @media (max-width: 600px) {
   .overlay {
@@ -65,4 +56,3 @@ video {
     font-size: 1rem;
   }
 }
-
